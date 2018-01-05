@@ -8,7 +8,7 @@ A DHT crawler, written in Node.js, the code is very very simple.
 `node nodeDHT.js`
 
 ## notice:
-You can edit `MAX_NODE_QSIZE` value for speed.
+You can edit `NODES_MAX_SIZE` value for speed.
 
 ## nodeDHT for Python and Ruby
 [simDHT](https://github.com/fanpei91/simDHT)
